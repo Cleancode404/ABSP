@@ -8,7 +8,7 @@ print(a[-3])  #negative index (count backward from the right side)
 
 
 # animals list
-animals = ['cat', 'dog', 'dog', 'guinea pig', 'dog']
+animals = ['cat', 'turtle', 'dog', 'guinea pig', 'duck']
 
 # 'dog' is removed
 animals.remove('dog')
